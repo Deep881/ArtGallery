@@ -105,7 +105,7 @@
     text-align: center;
     line-height:200px ;
 }
-#home:hover
+#home:active
 {font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     border: 3px solid gold;
@@ -121,7 +121,7 @@
     line-height:200px ;
     font-variant: small-caps;
 }
-#abtus:hover
+#abtus:active
 {font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     border: 3px solid gold;
@@ -136,7 +136,7 @@
    text-align: center;
    line-height: 50px;
 }
-#contact:hover
+#contact:active
 {font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     border: 3px solid gold;
