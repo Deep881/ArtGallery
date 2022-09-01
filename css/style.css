@@ -59,6 +59,7 @@
 { text-align: left;
     display: block;
     margin-bottom: 10px;
+    font-size: 20px;
 }
 .logi input
 {
@@ -87,13 +88,6 @@
 {
     background-color: blueviolet;
    font-size: large;
-}
-#s1{
-    position: absolute;
-    top:480px;
-    left: 800px ;
-    display:inline;
-    width: 130px;
 }
 #home{
     background-color: rgba(7, 8, 8, 0.27);
